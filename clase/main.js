@@ -101,11 +101,11 @@ else if (precio < 100) {
 
 //pedir un numero y comprobar si esta ebtre 10 y 50 si es asi mostrar alerta
 
-let numero1 = parseInt(prompt("Ingrese un numero para comparar",0))
-let numero2 = parseInt(prompt("Ingrese el otro numero",0))
+// let numero1 = parseInt(prompt("Ingrese un numero para comparar",0))
+// let numero2 = parseInt(prompt("Ingrese el otro numero",0))
 
-if ((numero1 >= 10) && (numero2<= 50)){
-    alert("Los numeros ingresados estan entre 10 y 50 y son: "+numero1+" y "+numero2)
-}else{
-    alert("Los numeros ingresados no estan entre 10 y 50 y son: " +numero1+ " y "+numero2)
-}
+// if ((numero1 >= 10) && (numero2<= 50)){
+//     alert("Los numeros ingresados estan entre 10 y 50 y son: "+numero1+" y "+numero2)
+// }else{
+//     alert("Los numeros ingresados no estan entre 10 y 50 y son: " +numero1+ " y "+numero2)
+// }
